@@ -41,3 +41,14 @@ ul {
     background-color: #fff;
     width: 90%;
 }
+
+.HTMLlogoImg {
+    width: 250px;
+    height: 250px;
+}
+
+figcaption {
+    color: #333;
+    text-decoration:double;
+    text-align: left;
+}
